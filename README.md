@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnanahmads999
 - 🌱 I’m currently learning Android Development and Preparing For Cloud Certifications.
-- 🌱 I’m currently Exploring Data Structure and Algorithms.
+- 🌱 I’m also Exploring Data Structure and Algorithms and practicing problems on Leetcode.
 - 🤔 Lead at GeeksforGeeks Student Chapter BBDEC.
 - 💬 Ask me about Good First Issues & Exciting projects to work on.
 - 📫 How to reach me: linkedin.com/in/adnanahmads999/
