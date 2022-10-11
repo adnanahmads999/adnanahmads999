@@ -6,7 +6,7 @@
 - 📫 How to reach me: linkedin.com/in/adnanahmads999/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Sometimes i write Poetry as well.
-Hacktoberfest 2022:
+- Hacktoberfest 2022:
 https://www.holopin.io/@adnanahmads999
 
 <!---
