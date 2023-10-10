@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @adnanahmads999<br>🌱 I’m currently learning Android Development and Preparing For Cloud Certifications.<br>🌱 I’m also Exploring Data Structure and Algorithms and practicing problems on Leetcode.<br>🤔 Lead at GeeksforGeeks Student Chapter BBDEC.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: linkedin.com/in/adnanahmads999/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Sometimes i write Poetry as well.<br>💻 Hacktoberfest: 2022: [![@adnanahmads999's Holopin board](https://holopin.me/adnanahmads999)](https://holopin.io/@adnanahmads999)
+👋 Hi, I’m @adnanahmads999<br>🌱 I’m currently learning Web Development(MERN STACK) and Preparing For Cloud Certifications.<br>🌱 I’m also Exploring Data Structure and Algorithms and practicing problems on Leetcode.<br>🤔 Lead at GeeksforGeeks Student Chapter BBDEC.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: linkedin.com/in/adnanahmads999/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Sometimes i write Poetry as well.<br>💻 Hacktoberfest: 2022: [![@adnanahmads999's Holopin board](https://holopin.me/adnanahmads999)](https://holopin.io/@adnanahmads999)
 
 
 ## 🌐 Socials:
