@@ -15,6 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adnanahmads999&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
+<h3>leetCode Status</h3>
+
+[![adnanahmads999's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=adnanahmads999)](https://github.com/KnlnKS/leetcode-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
